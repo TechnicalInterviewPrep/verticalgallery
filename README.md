@@ -4,4 +4,4 @@ create a vertical gallery with a small and a large scrollable list of images tha
 
 jquery solution: https://jsfiddle.net/kqvb6juo/
 
-+infinite scroll: https://jsfiddle.net/kqvb6juo/2/
++infinite scroll: https://jsfiddle.net/kqvb6juo/4/
